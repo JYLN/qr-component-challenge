@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-tailwindcss-Z0wvNp7X1P)
-- Live Site URL: [TBD]()
+- Live Site URL: [Vercel](https://qr-component-challenge.vercel.app/)
 
 ## My process
 
@@ -60,7 +60,7 @@ However, I've never been a fan of this approach. Through Kevin Powell's teaching
 <body class="flex min-h-screen items-center justify-center"></body>
 ```
 
-I was also pretty proud of using the `w-min` utility class within the component styling itself.
+I was also pretty proud of using the `max-w-min` utility class within the component styling itself.
 
 As well, through this project I was able to re-vamp my knowledge of the Tailwind configuration settings to allow myself to override the Tailwind default color scheme with only the colors I needed to produce the QR code component.
 
